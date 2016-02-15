@@ -79,9 +79,13 @@
 
  .section p {
   margin: auto;
-  font-size: 1.5em;
   margin-top: 10px;
   margin-bottom: 10px;
+  font-size: 1.2em;
+ }
+
+ .trunk-info {
+  font-size: 1.5em;
  }
 
 
