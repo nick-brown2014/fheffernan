@@ -21,15 +21,11 @@
 
  a {
   text-decoration: none;
-  color: black;
- }
-
- a:hover {
-  color: #7FA97B;
+  color: blue;
  }
 
  body {
-  background-color: #7FA97B;
+  background-color: gray;
  }
 
  .container {
@@ -74,13 +70,13 @@
 
  .section h1 {
   margin: auto;
+  margin-top: 20px;
   font-size: 2.5em;
  }
 
  .section p {
   margin: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 30px;
   font-size: 1.2em;
  }
 
